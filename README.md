@@ -5,6 +5,10 @@ I am terribly browser fickle, this is just a list of interesting or useful thing
 
 - [TCP Replay - Simulate Network Traffic](https://github.com/appneta/tcpreplay)
 
+## Tech News
+
+- [Lobster](https://lobste.rs/)
+
 ## Terminals
 
 - [Alacritty](https://alacritty.org/)
