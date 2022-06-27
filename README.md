@@ -15,3 +15,7 @@ I am terribly browser fickle, this is just a list of interesting or useful thing
 - [Contour](https://github.com/contour-terminal/contour)
 - [Kitty](https://github.com/kovidgoyal/kitty)
 - [Windows Terminal](https://github.com/Microsoft/Terminal)
+
+## Square
+
+- [Square Payments Testing Cards](https://developer.squareup.com/docs/devtools/sandbox/payments)
