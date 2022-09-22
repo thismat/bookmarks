@@ -1,6 +1,10 @@
 # Bookmarks
 I am terribly browser fickle, this is just a list of interesting or useful things I find.
 
+## Databases
+
+- [PlanetScale](https://planetscale.com/)
+
 ## Networking
 
 - [TCP Replay - Simulate Network Traffic](https://github.com/appneta/tcpreplay)
@@ -8,6 +12,10 @@ I am terribly browser fickle, this is just a list of interesting or useful thing
 ## Square
 
 - [Square Payments Testing Cards](https://developer.squareup.com/docs/devtools/sandbox/payments)
+
+## Storage
+
+- [Bunny](https://bunny.net/storage/)
 
 ## Tech News
 
