@@ -5,6 +5,10 @@ I am terribly browser fickle, this is just a list of interesting or useful thing
 
 - [TCP Replay - Simulate Network Traffic](https://github.com/appneta/tcpreplay)
 
+## Square
+
+- [Square Payments Testing Cards](https://developer.squareup.com/docs/devtools/sandbox/payments)
+
 ## Tech News
 
 - [Lobster](https://lobste.rs/)
@@ -16,6 +20,6 @@ I am terribly browser fickle, this is just a list of interesting or useful thing
 - [Kitty](https://github.com/kovidgoyal/kitty)
 - [Windows Terminal](https://github.com/Microsoft/Terminal)
 
-## Square
+## Unicode
 
-- [Square Payments Testing Cards](https://developer.squareup.com/docs/devtools/sandbox/payments)
+- [Variant Forms](https://en.m.wikipedia.org/wiki/Variant_form_(Unicode))
